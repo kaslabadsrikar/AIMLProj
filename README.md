@@ -1,4 +1,4 @@
-# AIMLProj
+# AIML_Proj
 Machine Learning projects of AI/ML Internship Program at InternPE.
 
 1) Diabetes Prediction using Machine Learning
